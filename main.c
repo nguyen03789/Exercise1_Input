@@ -1,5 +1,5 @@
 /*
-File: Input_Header.h
+File: main.c
 Author: Phan Trong Nguyen
 Date: 
 Description:
